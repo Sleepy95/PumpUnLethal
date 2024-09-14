@@ -8,8 +8,8 @@ Image (Si vous voulez la changer pas de soucis juste veillez bien a mettre a ren
 Fichier a mettre dans le weapon.lua 
 
 ['WEAPON_PUMPUNLETHAL'] = {
-			label = 'PUMPUNLETHAL',
-			weight = 1500,
-			durability = 0.075,
-			ammoname = "ammo-stungun",
-		},
+    label = 'PUMPUNLETHAL',
+    weight = 1500,
+    durability = 0.075,
+    ammoname = "ammo-stungun",
+},
